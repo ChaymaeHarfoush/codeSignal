@@ -1,5 +1,3 @@
 # codeSignal
 
-##contains some of codesignal questions'sanswers.
-
-## trying to and more sections
+##contains some of codesignal question's answers.
